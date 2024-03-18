@@ -12,4 +12,4 @@ Progressively master programming languages by dissecting the cores of popular on
 
 ## Table of Contents
 
-1、[Rust 编程入门：从 Hello World 开始掌握系统语言](hello-world.md)
+1、[Rust 编程入门：从 Hello World 开始掌握系统语言](src/README.md)
