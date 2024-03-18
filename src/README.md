@@ -2,12 +2,13 @@
 
 [入门 - Beginner](beginner)
 
-- 语言基础概念 - Language Fundamentals
-- 开发环境搭建 - Setting up Dev Environment
-- 第一个程序 - Your First Program
-- 基础语法 - Basic Syntax
-- 数据类型 - Data Types
-- 流程控制 - Control Flow
+- [语言基础概念 - Language Fundamentals](beginner/chapter_1.2.md)
+- [开发环境搭建 - Setting up Dev Environment](beginner/chapter_1.3.md)
+- [第一个程序 - Your First Program](beginner/chapter_1.4.md)
+- [基础语法 - Basic Syntax](beginner/chapter_2.1.md)
+- [数据类型 - Data Types](beginner/chapter_2.2.md)
+- [流程控制 - Control Flow](beginner/chapter_2.3.md)
+- [入门从基础到实践](beginner/chapter_3.md)
 
 [深入 - Advanced](advanced)
 

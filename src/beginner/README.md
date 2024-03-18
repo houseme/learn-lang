@@ -13,7 +13,12 @@ groundwork for your future learning.
 ## 开始
 
 - [从零开始掌握这门系统编程语言](chapter_1.1.md)
-- [从 Hello World 开始掌握系统语言](chapter_1.md)
+    - [从 Hello World 开始掌握系统语言](chapter_1.md)
+    - [语言基础概念 - Language Fundamentals](chapter_1.2.md)
+    - [开发环境搭建 - Setting up Dev Environment](chapter_1.3.md)
+    - [第一个程序 - Your First Program](chapter_1.4.md)
 - [Rust 语言数据类型全景解析](chapter_2.md)
-- [Rust 语言引用和借用的艺术](chapter_3.md)
-
+    - [基础语法 - Basic Syntax](chapter_2.1.md)
+    - [数据类型 - Data Types](chapter_2.2.md)
+    - [流程控制 - Control Flow](chapter_2.2.md)
+- [Rust 入门从基础到实践](chapter_3.md)

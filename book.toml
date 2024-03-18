@@ -3,11 +3,11 @@ authors = ["houseme"]
 language = "en"
 multilingual = false
 src = "src"
-title = "learn-lang"
+title = "learn Rust Lang"
 description = "Progressively master programming languages by dissecting the cores of popular ones like Rust and Go."
 
 [rust]
-edition = "2018"
+edition = "2021"
 
 [build]
 build-dir = "book"

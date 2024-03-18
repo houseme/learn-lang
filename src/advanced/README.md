@@ -14,3 +14,4 @@ crucial topics like file I/O, data structures, and algorithms to cement a compre
 
 - [深入理解 Rust 所有权](chapter_1.md)
 - [深入理解 Rust 所有权](chapter_2.md)
+- [Rust 语言引用和借用的艺术](chapter_3.md)
